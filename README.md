@@ -4,12 +4,6 @@
 O NLW é um evento gratuito de programação na prática, feito para devs de todos os níveis, e está sua 12ª edição </p>
 
 <p align="center">
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>
-</p>
-
-<p align="center">
   <img src=".github/preview.png" alt="Demonstração do projeto" width="100%" />
 </p>
 
