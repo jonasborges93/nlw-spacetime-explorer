@@ -9,7 +9,7 @@ O NLW é um evento gratuito de programação na prática, feito para devs de tod
 
 ## 🖥️ Projeto
 
-Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo. Você pode acessar esse projeto através [desse link](jonasborges93.github.io/nlw-spacetime).
+Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo. Você pode acessar esse projeto através [desse link](jonasborges93.github.io/nlw-spacetime-explorer/).
 
 ## 🚀 Tecnologias
 
